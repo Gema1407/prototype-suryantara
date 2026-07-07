@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 160" fill="none">
+  <!-- Left arrow shapes (green + navy) -->
+  <!-- Green top-left diamond/arrow -->
+  <polygon points="30,10 75,10 100,50 55,50" fill="#6BBF2A"/>
+  <!-- Green bottom-left arrow pointing right -->
+  <polygon points="10,55 55,55 100,95 55,95" fill="#6BBF2A"/>
+  <!-- Navy bottom kite -->
+  <polygon points="55,100 100,100 75,140 30,140" fill="#1B2B5E"/>
+
+  <!-- Lightning bolt small (inside the y letter area) -->
+  <!-- Text: Suryantara -->
+  <text x="125" y="85" font-family="'Montserrat', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="54" fill="#1B2B5E" letter-spacing="-1">Sury</text>
+  <!-- lightning bolt over the 'y' -->
+  <polygon points="245,15 236,55 248,55 239,90 260,45 247,45 257,15" fill="#6BBF2A"/>
+  <text x="262" y="85" font-family="'Montserrat', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="54" fill="#1B2B5E" letter-spacing="-1">antara</text>
+
+  <!-- Text: Energy -->
+  <text x="125" y="138" font-family="'Montserrat', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="54" fill="#6BBF2A" letter-spacing="-1">Energy</text>
+</svg>
